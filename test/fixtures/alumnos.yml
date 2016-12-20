@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: 
+  edad: 
+  rut: 
+
+two:
+  nombre: 
+  edad: 
+  rut: 
